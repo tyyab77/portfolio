@@ -38,7 +38,7 @@ To view this portfolio, you can clone or download this repository and run the pr
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/portfolio.git
+    git clone https://github.com/tyyab77/portfolio.git
     ```
 
 2. Navigate to the project directory:
@@ -61,8 +61,8 @@ To view this portfolio, you can clone or download this repository and run the pr
 ## Contact
 Feel free to get in touch with me via email or connect with me on LinkedIn:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Muhammad Tayyab](https://www.linkedin.com/in/your-linkedin)
+- Email: [your-email@example.com](mailto:editorxpr@gmail.com)
+
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).
